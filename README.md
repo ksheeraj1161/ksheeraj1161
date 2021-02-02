@@ -1,10 +1,9 @@
-### Hi there 👋
-
-<!--
-**ksheeraj1161/ksheeraj1161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there 👋
 
 Here are some ideas to get you started:
 
+- ⚡ Available for Freelance projects/internship opportunities.
+- 🍔 Currently developing TasteBuds.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
