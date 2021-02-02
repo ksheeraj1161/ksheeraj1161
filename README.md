@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Here are some ideas to get you started:
+![](https://github.com/ksheeraj1161/ksheeraj1161/blob/main/header_.png)
 
 - ⚡ Available for Freelance projects/internship opportunities.
 - 🍔 Currently developing TasteBuds.
