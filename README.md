@@ -36,6 +36,14 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksheeraj1161&show_icons=true&theme=light&line_height=27" alt="Ksheeraj's github stats"/>
 </a>
 
+<a href="https://github.com/ksheeraj1161/COVID-Testing-Quarantine-Centre">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksheeraj1161&repo=COVID-Testing-Quarantine-Centre&theme=light" />
+
+</a>
+<a href="https://github.com/ksheeraj1161/ISTE-Website">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksheeraj1161&repo=ISTE-Website&theme=light" />
+</a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksheeraj1161&" alt="ksheeraj1161" /></p>
 
 <div align="center">
