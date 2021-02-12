@@ -28,7 +28,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kandra-ksheeraj/" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCMhnPteO8uY9XNe8bxKc_Rw/featured" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.youtube.com/channel/UCMhnPteO8uY9XNe8bxKc_Rw/featured" height="30" width="40" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksheeraj1161&show_icons=true&locale=en&layout=compact" alt="ksheeraj1161" /></p>
 
