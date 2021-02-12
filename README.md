@@ -29,11 +29,11 @@
   - ⚡ Fun fact _ I code to drink coffee and viceversa
   
 
-<a href="https://github.com/ksheeraj1161">
+<a href="https://github.com/ksheeraj1161?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheeraj1161&theme=light&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/ksheeraj1161">
+<a href="https://github.com/ksheeraj1161?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksheeraj1161&show_icons=true&theme=light&line_height=27" alt="Ksheeraj's github stats"/>
 </a>
 
@@ -45,7 +45,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksheeraj1161&repo=Datastructures-Algorithms&theme=light" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksheeraj1161&" alt="ksheeraj1161" /></p>
+</a>
+<a href="https://github.com/ksheeraj1161?tab=repositories">
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksheeraj1161&" alt="ksheeraj1161" /></p>
+</a>
+
 
 <div align="center">
 
