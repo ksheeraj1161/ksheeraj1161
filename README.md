@@ -12,4 +12,6 @@
   - 📫 How to reach me _ kandra.ksheeraj@gmail.com
   - 😄 Pronouns _ He/atadu/vah/avan/il
   - ⚡ Fun fact _ I code to drink coffee and viceversa
+  
+ https://github-readme-stats.vercel.app/api?username=ksheeraj1161&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
