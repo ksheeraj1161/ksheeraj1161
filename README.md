@@ -8,9 +8,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kandra-ksheeraj/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/ksheeraj1161" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_ksheeru_/?hl=en" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCMhnPteO8uY9XNe8bxKc_Rw/featured" height="30" width="40" /></a>
+<a href="https://github.com/ksheeraj1161" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/ksheeraj1161" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_ksheeru_/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_ksheeru_/?hl=en" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCMhnPteO8uY9XNe8bxKc_Rw/featured" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCMhnPteO8uY9XNe8bxKc_Rw/featured" height="30" width="40" /></a>
 
   - 🔭 I’m currently pursuing my BTech focused in Computer Science Engineering from Vellore Institute of Technology, Vellore
   
