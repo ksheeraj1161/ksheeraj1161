@@ -6,8 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksheeraj1161&label=Profile%20views&color=0e75b6&style=flat" alt="ksheeraj1161" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksheeraj1161" alt="ksheeraj1161" /></a> </p>
-
+<p align="left">
+<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kandra-ksheeraj/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/ksheeraj1161" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_ksheeru_/?hl=en" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCMhnPteO8uY9XNe8bxKc_Rw/featured" height="30" width="40" /></a>
 
   - 🔭 I’m currently pursuing my BTech focused in Computer Science Engineering from Vellore Institute of Technology, Vellore
   
@@ -25,17 +28,20 @@
   
   - ⚡ Fun fact _ I code to drink coffee and viceversa
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kandra-ksheeraj/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCMhnPteO8uY9XNe8bxKc_Rw/featured" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kandra-ksheeraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.youtube.com/channel/UCMhnPteO8uY9XNe8bxKc_Rw/featured" height="30" width="40" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksheeraj1161&show_icons=true&locale=en&layout=compact" alt="ksheeraj1161" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksheeraj1161&show_icons=true&locale=en" alt="ksheeraj1161" /></p>
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheeraj1161&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksheeraj1161&show_icons=true&theme=light&line_height=27" alt="Ksheeraj's github stats"/>
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksheeraj1161&" alt="ksheeraj1161" /></p>
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
