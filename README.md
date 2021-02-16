@@ -20,7 +20,7 @@
   
   - ⚡ Available for Freelancing projects/internship opportunities
   
-  - 🍔 Currently developing TasteBuds
+  - 🍔 Currently developing Badelog.in 
   
   - 📫 How to reach me _ kandra.ksheeraj@gmail.com
   
