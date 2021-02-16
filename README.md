@@ -20,7 +20,7 @@
   
   - ⚡ Available for Freelancing projects/internship opportunities
   
-  - 🍔 Currently developing Badelog.in 
+  - 🧑‍💻 Currently developing www.Badelog.in
   
   - 📫 How to reach me _ kandra.ksheeraj@gmail.com
   
