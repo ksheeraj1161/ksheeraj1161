@@ -24,7 +24,7 @@
   
   - 📫 How to reach me _ kandra.ksheeraj@gmail.com
   
-  - 😄 Pronouns _ He/atadu/vah/avan/il
+  - 😄 Available for freelancing
   
   - ⚡ Fun fact _ I code to drink coffee and viceversa
   
