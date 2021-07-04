@@ -2,7 +2,7 @@
 
 ![](https://github.com/ksheeraj1161/ksheeraj1161/blob/main/header_.png)
 
-<h3 align="center">Designer || Web Developer || Programmer || Student at VIT University</h3>
+<h3 align="center">Designer || Developer || Programmer || Student at VIT University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksheeraj1161&label=Profile%20views&color=0e75b6&style=flat" alt="ksheeraj1161" /> </p>
 
