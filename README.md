@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋 I'm Kandra Ksheeraj</h1>
+<h1 align="center">Hello there 👋 I'm Ksheeraj Kandra </h1>
 
 ![](https://github.com/ksheeraj1161/ksheeraj1161/blob/main/header_.png)
 
@@ -14,7 +14,7 @@
 
   - 🔭 I’m currently pursuing my BTech focused in Computer Science Engineering from Vellore Institute of Technology, Vellore
   
-  - 🌱 I work on projects for my academic courses and exploring everything around to learn new technologies every day
+  - 🌱 I work on projects for my academic courses and I'm exploring everything around to learn new technologies every day
   
   - 💬 I'm a Senior Graphic design professional, Visual communication expert and a Creative strategist.
   
