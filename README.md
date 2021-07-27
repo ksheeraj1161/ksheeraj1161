@@ -2,7 +2,7 @@
 
 ![](https://github.com/ksheeraj1161/ksheeraj1161/blob/main/header_.png)
 
-<h3 align="center">Designer || Developer || Programmer || Student at VIT University</h3>
+<h3 align="center">Developer || Programmer || ML Enthusiast || Designer || Student at VIT University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksheeraj1161&label=Profile%20views&color=0e75b6&style=flat" alt="ksheeraj1161" /> </p>
 
@@ -14,7 +14,7 @@
 
   - 🔭 I’m currently pursuing my BTech focused in Computer Science Engineering from Vellore Institute of Technology, Vellore
   
-  - 🌱 I work on projects for my academic courses and I'm exploring everything around to learn new technologies every day
+  - 🌱 I'm working on projects for and I'm exploring everything around to learn new technologies every day
   
   - 💬 I'm a Senior Graphic design professional, Visual communication expert and a Creative strategist.
   
@@ -41,8 +41,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksheeraj1161&repo=COVID-Testing-Quarantine-Centre&theme=light" />
 
 </a>
-<a href="https://github.com/ksheeraj1161/Datastructures-Algorithms">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksheeraj1161&repo=Datastructures-Algorithms&theme=light" />
+<a href="https://github.com/ksheeraj1161/Data-Analysis-in-Python">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksheeraj1161&repo=Data-Analysis-in-Python&theme=light" />
 </a>
 
 </a>
@@ -53,6 +53,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring the repositories!
+### Show some ❤️ by sharing and starring the repositories!
 
 </div>
