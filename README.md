@@ -14,7 +14,7 @@
 
   - 🔭 I’m currently pursuing my BTech focused in Computer Science Engineering from Vellore Institute of Technology, Vellore
   
-  - 🌱 I'm working on projects for and I'm exploring everything around to learn new technologies every day
+  - 🌱 Working on projects and exploring everything around to learn new technologies every day
   
   - 💬 I'm a Senior Graphic design professional, Visual communication expert and a Creative strategist.
   
